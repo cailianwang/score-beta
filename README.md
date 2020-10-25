@@ -1,5 +1,4 @@
-/這是一個成績計算程式/
-1.如何使用？
-使用可以開c++的應用程式
-2.執行
-3.禁止商業利益
+Score
+How to use?
+Open Dev C++ and paste this code 
+Then Run!
